@@ -1,0 +1,4 @@
+pyvlfeat
+A Cython wrapper for vlfeat with a very similar interface to the MATLAB wrapper
+Similar to vlfeat, it is licensed under the BSD license.
+I probably won't finish this, especially with feature engineering falling out of favor, but it should be relatively straightforward to similarly wrap functions I didn't wrap.
